@@ -1,3 +1,5 @@
+![shadow_thumb](https://user-images.githubusercontent.com/15730241/52946630-c8a81080-33b7-11e9-8bfa-714dd8eb7a7c.png)
+
 # 影アドオン
 
 高架下を大いなる闇に葬る漆黒の各種軌道way-object(電化)です。
