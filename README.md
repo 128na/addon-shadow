@@ -4,6 +4,7 @@
 # 影アドオン
 
 高架下を大いなる闇に葬る漆黒の各種軌道way-object(電化)です。
+128サイズ用と64サイズ用を同梱してあります。
 
 # バージョン
 
@@ -23,3 +24,7 @@ http://himawari-design-lab.jp/simutrans/index.html
 アイコン画像：いらすとや
 https://www.irasutoya.com/2017/06/blog-post_978.html
 
+# 更新履歴
+
+- 2019/2/18 初版
+- 2019/2/20 64サイズを追加、ライセンスを明記
