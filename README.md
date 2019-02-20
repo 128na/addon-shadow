@@ -12,6 +12,7 @@
 
 本作品はクリエイティブ・コモンズ「表示・非営利・継承 4.0 国際」ライセンスの下に提供しています。
 http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
+
 ![by-nc-sa](https://user-images.githubusercontent.com/15730241/53064337-c6a29680-350a-11e9-8ae8-043dbcfae194.png)
 
 # 参考
