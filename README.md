@@ -6,7 +6,12 @@
 
 # バージョン
 
-120.2移行
+120.2以降
+
+# 改変・公開について
+
+本作品はクリエイティブ・コモンズ「表示・非営利・継承 4.0 国際」ライセンスの下に提供しています。
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
 
 # 参考
 
@@ -15,3 +20,4 @@ http://himawari-design-lab.jp/simutrans/index.html
 
 アイコン画像：いらすとや
 https://www.irasutoya.com/2017/06/blog-post_978.html
+
